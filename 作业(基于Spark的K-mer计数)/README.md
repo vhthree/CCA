@@ -1,0 +1,3 @@
+# 期末作业二：基于Spark的K-mer计数
+spark-yunjisuan文件夹包括了整个项目的代码
+快速访问文件夹只包括实现K-mer计数功能的scala代码
